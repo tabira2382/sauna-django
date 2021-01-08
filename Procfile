@@ -1,1 +1,1 @@
-web: gnicorn saunaproject.wsgi
+web: gunicorn saunaproject.wsgi
